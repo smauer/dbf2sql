@@ -100,7 +100,7 @@ foreach ($operands as $sourcefile) {
         fwrite($destination, $insertLine);
     }
     fclose($destination);
-    echo "Export done: " . $source->getDeleteCount() . " deleted records ommitted\n";
+    echo "Export done: " . $source->getDeleteCount() . " deleted records omitted\n";
 }
 
 function mapTypeToSql($type_short, $length, $decimal)
