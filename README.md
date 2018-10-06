@@ -3,7 +3,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8d8207c70a7040879f6f6853cb4f6f0f)](https://www.codacy.com/app/xmorave2/dbf2sql?utm_source=github.com&utm_medium=referral&utm_content=xmorave2/dbf2sql&utm_campaign=badger)
 [![Dependency Status](https://www.versioneye.com/user/projects/58b74d1a9fd69a003e8d2c5a/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58b74d1a9fd69a003e8d2c5a)
 
-DBF 2 SQL is small command line tool for converting DBF files top MySQL dump format.
+DBF 2 SQL is small command line tool for converting DBF files to MySQL dump format.
 
 # Installation
 
